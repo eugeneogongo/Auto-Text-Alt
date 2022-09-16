@@ -32,7 +32,7 @@
     "jquery": "3.5.0",
     "highlight.js": "^10.0.2",
     "jquery": "3.4.1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "ngx-highlightjs": "^4.1.0-beta",
     "oidc-client": "^1.9.1",
     "popper.js": "^1.16.0",
